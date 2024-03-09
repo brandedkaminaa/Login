@@ -3,8 +3,8 @@ import requests
 # Replace these with the actual API URL and credentials
 LOGIN_URL = "https://y99.in/web/login"
 MESSAGE_URL = "https://chat.example.com/api/message"
-USERNAME = "rani_patil"
-PASSWORD = "kanyaop"
+USERNAME = "l"
+PASSWORD = "
 
 def login():
     """Function to log into the chat platform."""
